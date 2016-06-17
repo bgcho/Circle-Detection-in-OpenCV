@@ -9,7 +9,9 @@ This code detects, recognizes, and registers circles in two different images.
 
 3. Detected circles and the Warped images are in result_images/pair#.
 
-4. The source and target images are in 
+4. The source and target images are in result_images/pair#
 
+5. Made changes for test
 
+6. Made another change for test
 
